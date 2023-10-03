@@ -1,27 +1,27 @@
 # Power-BI-Sales-Analysis-Report
 This project is about buidling a dashboard based on the sales data from 2019-2022 of a firm called Techno Edge. The data file has rows as listed below 
 
-1.Row ID
-2.Order ID
-3.Order Date
-4.Ship Date
-5.Ship Mode
-6.Customer ID
-7.Customer Name
-8.Segment
-9.Country/Region
-10.City
-11.State
-12.Postal Code
-13.Region
-14.Product ID
-15.Category
-16.Sub-Category
-17.Product Name
-18.Sales
-19.Quantity
-20.Discount
-21.Profit
+1. Row ID
+2. Order ID
+3. Order Date
+4. Ship Date
+5. Ship Mode
+6. Customer ID
+7. Customer Name
+8. Segment
+9. Country/Region
+10. City
+11. State
+12. Postal Code
+13. Region
+14. Product ID
+15. Category
+16. Sub-Category
+17. Product Name
+18. Sales
+19. Quantity
+20. Discount
+21. Profit
 
 
 Key Insights:
