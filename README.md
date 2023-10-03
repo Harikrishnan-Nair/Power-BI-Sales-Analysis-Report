@@ -31,6 +31,7 @@ Key Insights:
 4.	Top 3 cites in terms of decreasing profits are – New York City, Los Angeles and Seattle
 5.	Top 3 categories with highest profits are – Technology, Office supplies and Furniture
 6.	Top 3 products with highest profits are –
+
         a. Canon imageCLASS 2200 Advanced Copier (Technology)
   	    b. Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind (Office Supplies)
   	    c. Hewlett Packard LaserJet 3310 Copier (Technology)
