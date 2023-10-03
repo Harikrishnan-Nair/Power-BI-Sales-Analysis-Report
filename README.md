@@ -1,5 +1,5 @@
 # Power-BI-Sales-Analysis-Report
-This project is about buidling a dashboard based on the sales data from 2019-2022 of a firm called Techno Edge. The data file has rows as listed below 
+This project is about buidling a dashboard based on the sales data from 2019-2022 of a firm called Techno Edge. The key insights related to sales and profit based on different paramters like region, segment, category etc were identifed. The data file has columns as listed below: 
 
 1. Row ID
 2. Order ID
