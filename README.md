@@ -22,6 +22,7 @@ This project is about buidling a dashboard based on the sales data from 2019-202
 19. Quantity
 20. Discount
 21. Profit
+![TechnoEdge Monthy Sales report_pg1](https://github.com/Harikrishnan-Nair/Power-BI-Sales-Analysis-Report/assets/95662379/48ff207d-ce42-41d1-af58-0d85c821b7c2)
 
 
 Key Insights:
